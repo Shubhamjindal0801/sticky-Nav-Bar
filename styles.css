@@ -1,0 +1,51 @@
+body{
+  margin:0;
+}
+.out{
+  height:50px;
+  position: sticky;
+  background-color: black;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:space-between;
+  padding:1px;
+  align-items: center;
+}
+.in{
+  color:white;
+}
+.one{
+  margin-left:35px;
+}
+.two{
+  margin-left:1100px;
+}
+.five{
+  margin-right: 35px;
+}
+.holder{
+  height:100vh;
+  width:719px;
+}
+.heading{
+  margin-top:35px;
+  margin-left:35px;
+}
+.head1{
+  font-size: 38px;
+  font-weight: 600;
+}
+.para{
+  margin-right: 30px;
+}
+.heading button{
+  background-color: black;
+  color:white;
+  padding:9px;
+  width:150px;
+}
+.image{
+  position: absolute;
+  top:75px;
+  right:35px;
+}
